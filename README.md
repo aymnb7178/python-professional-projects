@@ -2,8 +2,6 @@
 
 An **index** of my Python projects. Each one lives in its own repository; every entry below links to code that exists and says how it was verified.
 
-> Several of these projects were written with AI assistance (Claude) and reviewed and published by me. Each repository's README says so and includes a `HOW_IT_WORKS.md` or equivalent explanation.
-
 | Project | What it is | Verification |
 |---|---|---|
 | [SpatialOS-JARVIS-Workstation](https://github.com/aymnb7178/SpatialOS-JARVIS-Workstation) | Webcam hand-tracking holographic 3D workspace with a rule-based assistant core | 16 automated tests; camera features run manually by me |
